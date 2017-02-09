@@ -1,2 +1,6 @@
 # hello-world
 Just another fool repository
+
+Hello World!  Hello Trees!  Hello Clouds!  Stop creeping my READ-ME files, you weirdo...
+
+Feed me and call me pretty...
